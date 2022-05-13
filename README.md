@@ -17,7 +17,7 @@ The demo includes below contents:
 
 Please find more detail in readme.docx                         
 
-And note that it can work only on Zidoo Z9S/Z10/X20/X20 PRO device.          
+And note that it can work only on Zidoo Z9X/Z10 Pro/Z1000 Pro device.
 
 The demo code is setup by Eclipse, and prebuilt apks are included.
 Try and Enjoy it!                                              
